@@ -1,0 +1,7 @@
+C:\Users\gorch\source\repos\EnchandcedIfStatement\EnchandcedIfStatement\bin\Debug\EnchandcedIfStatement.exe.config
+C:\Users\gorch\source\repos\EnchandcedIfStatement\EnchandcedIfStatement\bin\Debug\EnchandcedIfStatement.exe
+C:\Users\gorch\source\repos\EnchandcedIfStatement\EnchandcedIfStatement\bin\Debug\EnchandcedIfStatement.pdb
+C:\Users\gorch\source\repos\EnchandcedIfStatement\EnchandcedIfStatement\obj\Debug\EnchandcedIfStatement.csprojAssemblyReference.cache
+C:\Users\gorch\source\repos\EnchandcedIfStatement\EnchandcedIfStatement\obj\Debug\EnchandcedIfStatement.csproj.CoreCompileInputs.cache
+C:\Users\gorch\source\repos\EnchandcedIfStatement\EnchandcedIfStatement\obj\Debug\EnchandcedIfStatement.exe
+C:\Users\gorch\source\repos\EnchandcedIfStatement\EnchandcedIfStatement\obj\Debug\EnchandcedIfStatement.pdb

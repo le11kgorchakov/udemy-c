@@ -1,0 +1,7 @@
+C:\Users\gorch\source\repos\OOP_Human\OOP_Human\bin\Debug\OOP_Human.exe.config
+C:\Users\gorch\source\repos\OOP_Human\OOP_Human\bin\Debug\OOP_Human.exe
+C:\Users\gorch\source\repos\OOP_Human\OOP_Human\bin\Debug\OOP_Human.pdb
+C:\Users\gorch\source\repos\OOP_Human\OOP_Human\obj\Debug\OOP_Human.csprojAssemblyReference.cache
+C:\Users\gorch\source\repos\OOP_Human\OOP_Human\obj\Debug\OOP_Human.csproj.CoreCompileInputs.cache
+C:\Users\gorch\source\repos\OOP_Human\OOP_Human\obj\Debug\OOP_Human.exe
+C:\Users\gorch\source\repos\OOP_Human\OOP_Human\obj\Debug\OOP_Human.pdb

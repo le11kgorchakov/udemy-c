@@ -1,0 +1,7 @@
+C:\Users\gorch\source\repos\ForLoop\ForLoop\bin\Debug\ForLoop.exe.config
+C:\Users\gorch\source\repos\ForLoop\ForLoop\bin\Debug\ForLoop.exe
+C:\Users\gorch\source\repos\ForLoop\ForLoop\bin\Debug\ForLoop.pdb
+C:\Users\gorch\source\repos\ForLoop\ForLoop\obj\Debug\ForLoop.csprojAssemblyReference.cache
+C:\Users\gorch\source\repos\ForLoop\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\gorch\source\repos\ForLoop\ForLoop\obj\Debug\ForLoop.exe
+C:\Users\gorch\source\repos\ForLoop\ForLoop\obj\Debug\ForLoop.pdb

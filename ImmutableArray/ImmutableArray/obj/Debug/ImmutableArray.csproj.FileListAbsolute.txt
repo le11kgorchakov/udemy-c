@@ -1,0 +1,7 @@
+C:\Users\gorch\source\repos\ImmutableArray\ImmutableArray\bin\Debug\ImmutableArray.exe.config
+C:\Users\gorch\source\repos\ImmutableArray\ImmutableArray\bin\Debug\ImmutableArray.exe
+C:\Users\gorch\source\repos\ImmutableArray\ImmutableArray\bin\Debug\ImmutableArray.pdb
+C:\Users\gorch\source\repos\ImmutableArray\ImmutableArray\obj\Debug\ImmutableArray.csprojAssemblyReference.cache
+C:\Users\gorch\source\repos\ImmutableArray\ImmutableArray\obj\Debug\ImmutableArray.csproj.CoreCompileInputs.cache
+C:\Users\gorch\source\repos\ImmutableArray\ImmutableArray\obj\Debug\ImmutableArray.exe
+C:\Users\gorch\source\repos\ImmutableArray\ImmutableArray\obj\Debug\ImmutableArray.pdb

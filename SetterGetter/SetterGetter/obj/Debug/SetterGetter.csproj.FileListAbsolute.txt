@@ -1,0 +1,7 @@
+C:\Users\gorch\source\repos\SetterGetter\SetterGetter\bin\Debug\SetterGetter.exe.config
+C:\Users\gorch\source\repos\SetterGetter\SetterGetter\bin\Debug\SetterGetter.exe
+C:\Users\gorch\source\repos\SetterGetter\SetterGetter\bin\Debug\SetterGetter.pdb
+C:\Users\gorch\source\repos\SetterGetter\SetterGetter\obj\Debug\SetterGetter.csprojAssemblyReference.cache
+C:\Users\gorch\source\repos\SetterGetter\SetterGetter\obj\Debug\SetterGetter.csproj.CoreCompileInputs.cache
+C:\Users\gorch\source\repos\SetterGetter\SetterGetter\obj\Debug\SetterGetter.exe
+C:\Users\gorch\source\repos\SetterGetter\SetterGetter\obj\Debug\SetterGetter.pdb

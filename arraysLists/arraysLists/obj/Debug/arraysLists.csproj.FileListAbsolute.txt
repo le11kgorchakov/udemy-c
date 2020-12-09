@@ -1,0 +1,7 @@
+C:\Users\gorch\source\repos\arraysLists\arraysLists\bin\Debug\arraysLists.exe.config
+C:\Users\gorch\source\repos\arraysLists\arraysLists\bin\Debug\arraysLists.exe
+C:\Users\gorch\source\repos\arraysLists\arraysLists\bin\Debug\arraysLists.pdb
+C:\Users\gorch\source\repos\arraysLists\arraysLists\obj\Debug\arraysLists.csproj.CoreCompileInputs.cache
+C:\Users\gorch\source\repos\arraysLists\arraysLists\obj\Debug\arraysLists.exe
+C:\Users\gorch\source\repos\arraysLists\arraysLists\obj\Debug\arraysLists.pdb
+C:\Users\gorch\source\repos\arraysLists\arraysLists\obj\Debug\arraysLists.csprojAssemblyReference.cache

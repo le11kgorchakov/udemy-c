@@ -1,0 +1,7 @@
+C:\Users\gorch\source\repos\Members\Members\bin\Debug\Members.exe.config
+C:\Users\gorch\source\repos\Members\Members\bin\Debug\Members.exe
+C:\Users\gorch\source\repos\Members\Members\bin\Debug\Members.pdb
+C:\Users\gorch\source\repos\Members\Members\obj\Debug\Members.csprojAssemblyReference.cache
+C:\Users\gorch\source\repos\Members\Members\obj\Debug\Members.csproj.CoreCompileInputs.cache
+C:\Users\gorch\source\repos\Members\Members\obj\Debug\Members.exe
+C:\Users\gorch\source\repos\Members\Members\obj\Debug\Members.pdb
